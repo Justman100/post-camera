@@ -1,6 +1,4 @@
 tohsakarat-post-camera:
   admin:
-
-
   lib:
-    scan-post: download screen shot
+    scan-post: Download screenshot
